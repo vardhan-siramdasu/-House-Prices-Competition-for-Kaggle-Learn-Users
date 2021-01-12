@@ -1,0 +1,13 @@
+Validation MAE when not specifying max_leaf_nodes: 29,653
+
+Validation MAE for best value of max_leaf_nodes: 27,283
+
+Validation MAE for Random Forest Model: 21,857
+
+[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+
+[NbConvertApp] Writing 15036 bytes to __notebook__.ipynb
+
+[NbConvertApp] Converting notebook __notebook__.ipynb to html
+
+[NbConvertApp] Writing 292522 bytes to __results__.html
